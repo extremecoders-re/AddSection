@@ -9,3 +9,7 @@ Use Borland Delphi 7 to build the project.
 ## Screenshots
 
 ![Main Window](/screenshots/screen1.png?raw=true)
+
+## License
+
+Licensed under the MIT license.
